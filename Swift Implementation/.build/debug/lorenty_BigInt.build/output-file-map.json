@@ -1,0 +1,149 @@
+{
+  "": {
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/master.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P1.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P1.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P1.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P1~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P1.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P10.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P10.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P10.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P10~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P10.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P11.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P11.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P11.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P11~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P11.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P12.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P12.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P12.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P12~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P12.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P13.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P13.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P13.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P13~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P13.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P2.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P2.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P2.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P2~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P2.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P21.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P21.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P21.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P21~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P21.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P22.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P22.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P22.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P22~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P22.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P25.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P25.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P25.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P25~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P25.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P3.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P3.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P3.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P3~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P3.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P4.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P4.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P4.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P4~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P4.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P4V1.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P4V1.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P4V1.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P4V1~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P4V1.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P5.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P5.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P5.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P5~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P5.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P6.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P6.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P6.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P6~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P6.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P6V1.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P6V1.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P6V1.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P6V1~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P6V1.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P7.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P7.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P7.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P7~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P7.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P7benchmark.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P7benchmark.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P7benchmark.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P7benchmark~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P7benchmark.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P8.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P8.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P8.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P8~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P8.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P8benchmark.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P8benchmark.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P8benchmark.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P8benchmark~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P8benchmark.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P9.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P9V1.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V1.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V1.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V1~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V1.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P9V1benchmark.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V1benchmark.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V1benchmark.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V1benchmark~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V1benchmark.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P9V2.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V2.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V2.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V2~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V2.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/P9V2benchmark.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V2benchmark.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V2benchmark.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V2benchmark~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/lorenty_BigInt.build/P9V2benchmark.swiftdeps"
+  }
+}

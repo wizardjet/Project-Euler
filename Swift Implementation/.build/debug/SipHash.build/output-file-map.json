@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/master.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/Packages/SipHash-1.1.0/sources/Primitive Types.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/Primitive Types.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/Primitive Types.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/Primitive Types~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/Primitive Types.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/Packages/SipHash-1.1.0/sources/RandomUInt64.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/RandomUInt64.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/RandomUInt64.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/RandomUInt64~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/RandomUInt64.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/Packages/SipHash-1.1.0/sources/SipHashable.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/SipHashable.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/SipHashable.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/SipHashable~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/SipHashable.swiftdeps"
+  },
+  "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/Packages/SipHash-1.1.0/sources/SipHasher.swift": {
+    "dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/SipHasher.d",
+    "object": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/SipHasher.swift.o",
+    "swiftmodule": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/SipHasher~partial.swiftmodule",
+    "swift-dependencies": "/Users/WizardJet/Google Drive/Programming/Project Euler/Swift Implementation/.build/debug/SipHash.build/SipHasher.swiftdeps"
+  }
+}
